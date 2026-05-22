@@ -1,0 +1,6 @@
+.venv/
+.venv/
+build/
+_pycache_/
+*.pyc
+*.onnx
